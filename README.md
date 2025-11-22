@@ -1,18 +1,18 @@
 # Client Query Management System
 
-A simple web app for managing client support tickets. Built this to help small teams handle customer queries without needing complex ticketing systems.
+A simple web app for managing client support queries. Built this to help small teams handle customer queries without needing complex querying systems.
 
 ## What it does
 
 **For Clients:**
-- Submit support tickets through a simple form
+- Submit support queries through a simple form
 - Get a unique query ID for tracking
 - Choose from common issue categories
 
 **For Support Team:**
-- See all tickets in one place
+- See all queries in one place
 - Filter by status or category
-- Close tickets when resolved
+- Close query when resolved
 
 ## Setup
 
