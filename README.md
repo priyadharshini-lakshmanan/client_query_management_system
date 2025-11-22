@@ -48,7 +48,7 @@ The app will create tables automatically on first run.
 
 **Client side:** Fill the form, pick a category, describe your issue, and submit.
 
-**Support side:** View the dashboard, filter tickets, and close them when done.
+**Support side:** View the dashboard, filter queries, and close them when done.
 
 ## Query categories
 
